@@ -2,9 +2,10 @@
 
 This is my Github profile, where I will upload ideas and projects on Data Engineering, Data Science and Data Analysis topics. Greetings!
 
+https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg
+
 <!--
 **Cris-Neumann/Cris-Neumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
