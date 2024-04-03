@@ -2,8 +2,6 @@
 
 This is my Github profile, where I will upload ideas and projects on Data Engineering, Data Science and Data Analysis topics. Greetings!
 
-<img width="488" alt="python" src="https://github.com/Cris-Neumann/Cris-Neumann/assets/99703152/0f8fa53a-6052-4f27-a135-6b5a3cf26333">
-
 <!--
 **Cris-Neumann/Cris-Neumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
