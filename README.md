@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/airflow.svg" width="45">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="55">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker_compose.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_bi.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/kafka.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_s3.svg" width="35">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_redshift.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/airflow.svg" width="40">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="50">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker_compose.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_bi.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/kafka.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_s3.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_redshift.svg" width="30">
 </p>
