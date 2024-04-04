@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="50">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="50">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/airflow.svg" width="45">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="50">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="65">
 </p>
