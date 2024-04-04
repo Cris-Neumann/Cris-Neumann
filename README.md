@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: inline-block;">
-    <img src="[URL_DE_LA_PRIMERA_IMAGEN](https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg)" width="70">
-</div>
-
-<div style="display: inline-block;">
-    <img src="[URL_DE_LA_SEGUNDA_IMAGEN](https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg)" width="70">
-</div>
+<table>
+  <tr>
+    <td><img src="[URL_DE_LA_PRIMERA_IMAGEN](https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg)" width="70"></td>
+    <td><img src="[URL_DE_LA_SEGUNDA_IMAGEN](https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg)" width="70"></td>
+  </tr>
+</table>
 
