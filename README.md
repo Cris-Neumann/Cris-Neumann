@@ -24,4 +24,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker_compose.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_bi.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/kafka.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_s3.svg" width="35">
 </p>
