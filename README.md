@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="70">   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="70">
+<p align="left">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="70">
+</p>
+
+<p align="left">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="70">
+</p>
