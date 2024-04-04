@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="45">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="45">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/airflow.svg" width="55">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="65">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker_compose.svg" width="45">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_bi.svg" width="60">  
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/python.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/postgresql.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/airflow.svg" width="45">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker.svg" width="55">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/docker_compose.svg" width="35"> 
 </p>
