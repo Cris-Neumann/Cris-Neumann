@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/kafka.svg" width="30">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_s3.svg" width="30">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/aws_redshift.svg" width="30">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/mongodb.svg" width="30">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/mongodb.svg" width="40">
 </p>
