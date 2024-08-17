@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/mongodb.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/tableau.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/spark.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/databricks.svg" width="35">
 </p>
