@@ -1,4 +1,4 @@
-### Hola! ✌️
+### Hola!
 
 Este es mi perfil de Github, donde iré subiendo ideas y proyectos sobre Ingeniería de Datos y Ciencia de Datos. 🔥🔥🔥
 
