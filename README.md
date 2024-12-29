@@ -33,4 +33,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/logic-apps.svg" width="43">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/delta.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_automate.svg" width="35">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/neo4j.svg" width="35">
 </p>
