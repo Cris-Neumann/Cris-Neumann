@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/delta.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_automate.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/neo4j.svg" width="28">
-  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/minio.svg" width="20">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/minio.svg" width="15">
 </p>
