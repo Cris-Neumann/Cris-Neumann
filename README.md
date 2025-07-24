@@ -1,6 +1,6 @@
 ### Hola!
 
-Este es mi perfil de Github, donde iré subiendo ideas y proyectos sobre Ingeniería de Datos y Ciencia de Datos. 🔥🔥🔥
+Este es mi perfil de Github, donde iré subiendo ideas y proyectos sobre Ingeniería de Datos y Ciencia de Datos. 🔥🔥
 
 <!--
 **Cris-Neumann/Cris-Neumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +35,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/power_automate.svg" width="35">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/neo4j.svg" width="28">
   <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/minio.svg" width="15">
+  <img src="https://github.com/Cris-Neumann/Cris-Neumann/blob/main/data_factory.svg" width="15">
 </p>
